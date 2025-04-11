@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Movable point/Movable point.iml" filepath="$PROJECT_DIR$/Movable point/Movable point.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance_bt.iml" filepath="$PROJECT_DIR$/inheritance_bt.iml" />
       <module fileurl="file://$PROJECT_DIR$/point 2d 3d/point 2d 3d.iml" filepath="$PROJECT_DIR$/point 2d 3d/point 2d 3d.iml" />
     </modules>
